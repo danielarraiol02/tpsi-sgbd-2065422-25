@@ -437,12 +437,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="e86jFZnE23aeIC8vbzqv" name="Pastelaria">
-    <mxGraphModel dx="1877" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2140" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mPl8g24kH3SN6r9IMUtI-1" value="Cliente" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="50" width="180" height="180" as="geometry">
+          <mxGeometry x="-580" y="50" width="180" height="180" as="geometry">
             <mxRectangle x="30" y="50" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -512,7 +512,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mPl8g24kH3SN6r9IMUtI-14" value="Encomenda" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="20" width="180" height="150" as="geometry" />
+          <mxGeometry x="-200" y="30" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="mPl8g24kH3SN6r9IMUtI-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="mPl8g24kH3SN6r9IMUtI-14">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -567,7 +567,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mPl8g24kH3SN6r9IMUtI-27" value="Receita" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="375" width="180" height="210" as="geometry" />
+          <mxGeometry x="70" y="290" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="mPl8g24kH3SN6r9IMUtI-28" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="mPl8g24kH3SN6r9IMUtI-27">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -648,7 +648,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mPl8g24kH3SN6r9IMUtI-40" value="Ingrediente" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="380" width="180" height="150" as="geometry" />
+          <mxGeometry x="-580" y="320" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="mPl8g24kH3SN6r9IMUtI-41" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="mPl8g24kH3SN6r9IMUtI-40">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -709,7 +709,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mPl8g24kH3SN6r9IMUtI-82" value="EncomendaReceita" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="380" y="210" width="180" height="120" as="geometry" />
+          <mxGeometry x="140" y="50" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="mPl8g24kH3SN6r9IMUtI-83" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="mPl8g24kH3SN6r9IMUtI-82">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -768,7 +768,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mPl8g24kH3SN6r9IMUtI-97" value="ReceitaIngrediente" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="300" width="180" height="120" as="geometry" />
+          <mxGeometry x="-250" y="300" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="mPl8g24kH3SN6r9IMUtI-98" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="mPl8g24kH3SN6r9IMUtI-97">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
