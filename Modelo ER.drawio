@@ -5,43 +5,40 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TPrVQ2vfuo1EL82JjgPy-2" value="Utilizador" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="80" y="50" width="100" height="40" as="geometry" />
+          <mxGeometry x="90" y="-50" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TPrVQ2vfuo1EL82JjgPy-5" value="Tipo_utilizador" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="430" y="50" width="100" height="40" as="geometry" />
+          <mxGeometry x="100" y="-220" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TPrVQ2vfuo1EL82JjgPy-6" value="Artigos" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="60" y="240" width="100" height="40" as="geometry" />
+        <mxCell id="TPrVQ2vfuo1EL82JjgPy-6" value="Artigo" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TPrVQ2vfuo1EL82JjgPy-7" value="Imagem_artigo" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="450" y="230" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="TPrVQ2vfuo1EL82JjgPy-9" value="Favorito" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-150" width="100" height="40" as="geometry" />
+          <mxGeometry x="410" y="200" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TPrVQ2vfuo1EL82JjgPy-13" value="Mensagem" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="40" width="100" height="40" as="geometry" />
+          <mxGeometry x="-240" y="-40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TPrVQ2vfuo1EL82JjgPy-16" value="Adiciona" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="70" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="-40" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TPrVQ2vfuo1EL82JjgPy-19" value="Envia" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TPrVQ2vfuo1EL82JjgPy-20" value="Tem" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="70" y="-70" width="120" height="60" as="geometry" />
+          <mxGeometry x="-80" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TPrVQ2vfuo1EL82JjgPy-21" value="Varia por" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="250" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TPrVQ2vfuo1EL82JjgPy-22" value="Têm" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="250" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="TPrVQ2vfuo1EL82JjgPy-22" value="Tem" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="230" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TPrVQ2vfuo1EL82JjgPy-23" value="Efetua" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="250" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TPrVQ2vfuo1EL82JjgPy-24" value="Pesquisa" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-140" width="100" height="40" as="geometry" />
+          <mxGeometry x="420" y="-50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TPrVQ2vfuo1EL82JjgPy-25" value="Favorita" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="140" y="70" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
